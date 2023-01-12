@@ -1,6 +1,21 @@
 #LabePet
 
-> Overview da aplicação.
+> Esse projeto foi proposto pela Labenu para conclução do modulo de introdução aos fundamentos do desenvolvimento Web. O objetivo foi construir uma página estilizada, e com lista e busca utilizando manipulação de DOM, praticando o conteúdo do módulo com JS:
+
+Variáveis
+Operadores
+Strings
+Arrays
+Objetos
+Condicionais
+Laços
+Funções
+Funções de Array
+HTML e CSS
+Flex e Grid
+DOM e responsividade
+
+A página consiste em um HTML, ligado a um ou mais arquivos CSS, e um ou mais arquivos JS. O objetivo é conseguir criar uma página estática, depois estilizada, e por fim, dinâmica. A página vai catalogar (ou listar) itens que você escolher, e deve possuir um sistema simples de busca, que recebe um texto, e procura por nomes/títulos que correspondam a este texto.
 
 https://user-images.githubusercontent.com/103708832/212152659-6661d3c7-6979-4a39-945e-29f482eb6587.mp4
 
@@ -9,57 +24,26 @@ https://user-images.githubusercontent.com/103708832/212152659-6661d3c7-6979-4a39
 https://user-images.githubusercontent.com/103708832/212152697-f3b63bc0-8301-4ea4-8efa-6830ebea81c0.mp4
 
 
-## 📲 Link do deploy
+## 📲 https://josybarros.github.io/LabePet/
 
-Use a aplicação em [Link do deploy]() 
 
 ## 📑 Sobre o projeto
 
-Qual o intuito do projeto? Foi realizado como estudos, processo seletivo, atividade curricular? Exponha brevemente.
+O intuito do projeto foi realizado como estudos, e atividade curricular.
 
-## ✍🏻 Funcionalidades
-
-A aplicação conta com as seguintes funcionalidades:
-
-- 
--
--
 
 ## 📆 Implementações futuras e melhorias
 
-Este é um projeto em desenvolvimento e ainda conta com melhorias e o incremento de outras funcionalidades, sendo elas:
-
--
--
--
 
 ## 🛠 Bibliotecas
 
-Utiliza as seguintes bibliotecas de suporte:
+Utiliza as seguintes tecnologias:
 
-- 
-- 
-- 
+- HTML  
+- CSS
+- JAVASCRIPT
 
-## 🖥 Contribuindo ou testando localmente 
 
-```
-# Clone o repositório 
-
-$ git clone github.com/seu-usuario/repositorio.git
-```
-
-```
-# Instale as dependências 
-
-$ npm install
-```
-
-```
-# Rode o projeto
-
-$ npm run dev
-```
 
 ## Sugestões 🗣
 
