@@ -1,4 +1,4 @@
-#LabePet
+# LabePet
 
 > Esse projeto foi proposto pela Labenu para conclução do modulo de introdução aos fundamentos do desenvolvimento Web. O objetivo foi construir uma página estilizada, e com lista e busca utilizando manipulação de DOM, praticando o conteúdo do módulo com JS:
 
